@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="flex">
       <Counter step={1} />
-      <Counter step={2} />
+      <Counter />
       <Counter step={3} />
     </div>
   );
